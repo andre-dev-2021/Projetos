@@ -1,0 +1,8 @@
+{
+  "short_name": "Consulta CEP",
+  "name": "App Consulta CEP",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
