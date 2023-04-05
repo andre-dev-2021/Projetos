@@ -1,6 +1,10 @@
 # Consulta CEP
 
-Consulta um CEP via API dos Correios.
+Aplicativo de consulta de CEP
+
+## Sobre
+
+Este aplicativo foi desenvolvido para estudo de consumo de API. Recebe um CEP qualquer (no formato sem hífen) e retorna o endereço se a requisição HTTP for bem sucedida, se não, retorna um erro.
 
 ## Link Vercel
 - [Link](https://appconsultacep.vercel.app/)
@@ -8,15 +12,15 @@ Consulta um CEP via API dos Correios.
 ## Screenshots
 
 ### 1. Página
-![Screenshot-01](consulta-cep-app/public/SC01.png?raw=true)
+![Screenshot-01](./screenshots/SC01.png)
 ### 2. Inserindo um CEP válido
-![Screenshot-02](consulta-cep-app/public/SC02.png?raw=true)
+![Screenshot-02](./screenshots/SC02.png)
 ### 3. Resultado
-![Screenshot-03](consulta-cep-app/public/SC03.png?raw=true)
+![Screenshot-03](./screenshots/SC03.png)
 ### 4. Inserindo um CEP inválido
-![Screenshot-04](consulta-cep-app/public/SC04.png?raw=true)
+![Screenshot-04](./screenshots/SC04.png)
 ### 5. Resultado
-![Screenshot-05](consulta-cep-app/public/SC05.png?raw=true)
+![Screenshot-05](./screenshots/SC05.png)
 ## Referência
 
  - [CEP Brazil API](https://rapidapi.com/apis4all-apis4all-default/api/cep-brazil)
